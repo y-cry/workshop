@@ -1,0 +1,69 @@
+---
+title: "git_00"
+author: "Savannah Johnson"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+"The sun was shining on the sea,
+
+Shining with all his might:
+
+He did his very best to make 
+
+The billows smooth and
+
+bright- And this was odd, because it was The middle of the night.
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler,long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sun was shining on the sea,
+Shining with all his might:
+He did his very best to make
+The billows smooth and bright-
+And this was odd, because it was
+The middle of the night.
+
+The moon was shining sulkily,
+Because she thought the sun
+Had got no, business to be there
+After the day was done-
+"It's very rude of him," she said,
+"To come and spoil the fun."
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+You may write me down in history
+with your bitter, twisted lies,
+You may trod me in the very dirt
+But still, like dust, I'll rise.
+
+Does my sassiness upset you?
+Why are you beset with gloom?
+'Cause I walk like I've got oil wells
+Pumping in my living room.
+
+Just like moons and like suns, 
+With the certainty of tides
+Just like the hopes springing high,
+Still I'll rise.
